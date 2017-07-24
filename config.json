@@ -150,8 +150,8 @@
       "table": "DT_CSPlayer"
     },
     "m_iFOV": {
-    "netvar": "m_iFOV",
-    "table": "DT_CSPlayer"
+      "netvar": "m_iFOV",
+      "table": "DT_CSPlayer"
     },
     "m_iGlowIndex": {
       "netvar": "m_flFlashDuration",
